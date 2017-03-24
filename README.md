@@ -1,2 +1,2 @@
 # manmanbuy
-practise ajax &amp; bootstrap
+improve code, add some new functions
